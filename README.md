@@ -11,8 +11,14 @@ Currently attending in SKN Family AI camp, 16th.
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto&color=%23181717) <br>
 https://github.com/snfodhdi/worldcloud
 
-### Techniques
+### Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white&logoSize=auto&color=%233776AB) <br>
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?style=flat&logo=sqlite&logoColor=white&logoSize=auto&color=%23003B57)
+
+### Tools
+![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?style=flat&logo=pycharm&logoColor=white&logoSize=auto&color=%23000000) <br>
+![Static Badge](https://img.shields.io/badge/Anaconda-%2344A833?style=flat&logo=anaconda&logoColor=white&logoSize=auto&color=%2344A833) <br>
+![Static Badge](https://img.shields.io/badge/Google%20Colab-%23F9AB00?style=flat&logo=google%20colab&logoColor=white&logoSize=auto&color=%23F9AB00) <br>
 ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto&color=%234479A1) <br>
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto&color=%23181717) <br>
 ![Static Badge](https://img.shields.io/badge/Claude-%23D97757?style=flat&logo=claude&logoColor=white&logoSize=auto&color=%23D97757) <br>
