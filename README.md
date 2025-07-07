@@ -7,6 +7,9 @@ Graduated KOREA University, majored in Business Administration. <br>
 Started coding in 2025, and my base languages are Python, SQL. <br>
 Currently attending in SKN Family AI camp, 16th.
 
+### Projects
+![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto&color=%23181717) <br>
+https://github.com/snfodhdi/worldcloud
 
 ### Techniques
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white&logoSize=auto&color=%233776AB) <br>
