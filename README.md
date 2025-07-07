@@ -25,6 +25,14 @@ https://github.com/snfodhdi/worldcloud
 ![Static Badge](https://img.shields.io/badge/OpenAI-%23412991?style=flat&logo=openai&logoColor=white&logoSize=auto&color=%23412991) <br>
 ![Static Badge](https://img.shields.io/badge/Perplexity-%231FB8CD?style=flat&logo=perplexity&logoColor=white&logoSize=auto&color=%231FB8CD)
 
+### My Goals
+- [x] PCCE
+- [ ] PCCP
+- [ ] SQLD
+- [ ] ADsP
+
+[![VIVA's github status](https://github-readme-status.verce1.app/api?username=snfodhdi)](https://github.com/snfodhdi)
+
 ### Contact
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335) <br> aoex3036@gmail.com <br> <br>
 ![Static Badge](https://img.shields.io/badge/Naver-%2303C75A?style=flat&logo=naver&logoColor=white&logoSize=auto&color=%2303C75A) <br> rmzmrkswl@naver.com <br> <br>
