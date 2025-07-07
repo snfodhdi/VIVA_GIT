@@ -31,7 +31,12 @@ https://github.com/snfodhdi/worldcloud
 - [ ] SQLD
 - [ ] ADsP
 
-[![VIVA's github status](https://github-readme-status.verce1.app/api?username=snfodhdi)](https://github.com/snfodhdi)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snfodhdi&layout=compact&theme=dracula)
+
+![VIVA's GitHub stats](https://github-readme-stats.vercel.app/api?username=snfodhdi&show_icons=true&theme=dracula)
+
+
 
 ### Contact
 ![Static Badge](https://img.shields.io/badge/Gmail-%23EA4335?style=flat&logo=gmail&logoColor=white&logoSize=auto&color=%23EA4335) <br> aoex3036@gmail.com <br> <br>
