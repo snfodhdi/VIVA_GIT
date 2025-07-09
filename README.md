@@ -9,7 +9,8 @@ Currently attending in SKN Family AI camp, 16th.
 
 ### Projects
 ![Static Badge](https://img.shields.io/badge/Github-%23181717?style=flat&logo=github&logoColor=white&logoSize=auto&color=%23181717) <br>
-https://github.com/snfodhdi/worldcloud
+Worldcloud - https://github.com/snfodhdi/worldcloud <br>
+Map_project - https://github.com/snfodhdi/Map_project
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white&logoSize=auto&color=%233776AB) <br>
