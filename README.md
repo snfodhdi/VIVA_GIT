@@ -12,7 +12,8 @@ Currently attending in SKN Family AI camp, 16th.
 Worldcloud - https://github.com/snfodhdi/worldcloud <br>
 Map_project - https://github.com/snfodhdi/Map_project <br>
 Registered_Car_Status - https://github.com/snfodhdi/Registered_car_status <br>
-Smoking_Rate_Prediction_Model - https://github.com/snfodhdi/Smoke-rate_prediction_model
+Smoking_Rate_Prediction_Model - https://github.com/snfodhdi/Smoke-rate_prediction_model <br>
+Finance_RAG_Chatbot - https://github.com/snfodhdi/finance_chatbot
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white&logoSize=auto&color=%233776AB) <br>
@@ -27,12 +28,6 @@ Smoking_Rate_Prediction_Model - https://github.com/snfodhdi/Smoke-rate_predictio
 ![Static Badge](https://img.shields.io/badge/Claude-%23D97757?style=flat&logo=claude&logoColor=white&logoSize=auto&color=%23D97757) <br>
 ![Static Badge](https://img.shields.io/badge/OpenAI-%23412991?style=flat&logo=openai&logoColor=white&logoSize=auto&color=%23412991) <br>
 ![Static Badge](https://img.shields.io/badge/Perplexity-%231FB8CD?style=flat&logo=perplexity&logoColor=white&logoSize=auto&color=%231FB8CD)
-
-### My Goals
-- [x] PCCE
-- [ ] PCCP
-- [ ] SQLD
-- [ ] ADsP
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snfodhdi&layout=compact&theme=dracula)
